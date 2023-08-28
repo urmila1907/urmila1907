@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Urmila
 - 👀 I’m interested in Software development.
 - 🌱 I have created projects related to MERN stack and also frontend development.
-- 💞️ I’m looking to collaborate on web development related projects.
+- 💞️ I’m looking to collaborate on web development related projects and also actively seeking out job opportunities in software development domain.
 - 📫 How to reach me ...Via email -- urmilasangwan744@gmail.com
 
 <!---
