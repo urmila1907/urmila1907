@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @urmila1907
+- 👋 Hi, I’m Urmila
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning web development.
+- 🌱 I have created projects related to MERN stack and also frontend development.
 - 💞️ I’m looking to collaborate on web development related projects.
 - 📫 How to reach me ...Via email -- urmilasangwan744@gmail.com
 
